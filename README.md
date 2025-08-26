@@ -2,6 +2,12 @@
 
 A professional B2B website for custom branded merchandise, connecting businesses with premium Chinese suppliers.
 
+## 🚀 Quick Deploy
+
+Deploy this project to Vercel with one click:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjerryzhang08266%2Fmsw&project-name=brandz-website&repository-name=brandz-website)
+
 ## Features
 
 - **9 Product Categories**: Comprehensive range from office supplies to tech accessories
